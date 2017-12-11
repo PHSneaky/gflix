@@ -1,0 +1,101 @@
+
+@font-face {
+    font-family: 'PerenialGaming'; /*a name to be used later*/
+    src: url('font.ttf'); /*URL to font*/
+}
+
+body {
+    font-size:20px;
+    font-family: 'PerenialGaming';
+    color: #feeeea;
+    text-align:center;
+    background-color: rgb(25, 25, 25); /* BACKGROUND COLOR */
+}
+
+.center {
+    top: 50%;
+    left: 50%;
+    display: block;
+    position: absolute;
+    width: 750px;
+    height: 417px;
+    margin-top: -208.5px; /* HALF OF THE HEIGHT */
+    margin-left: -375px; /* HALF OF THE WIDTH */
+}
+
+
+.square {
+    float:left;
+    position: relative;
+    width: 30%;
+    padding-bottom : 30%;
+    margin:1.66%;
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+hr.custom {
+    border-top: 1px solid #8c8b8b;
+    border-bottom: 1px solid #fff;
+}
+
+.img_1-1{
+    background-image:url('../images/yt.png');
+    border-radius: 25px;
+    background-color: white;
+}
+
+.img_1-2{
+    background-image:url('../images/dailymotion.png');
+    border-radius: 25px;
+    background-color: white;
+
+}
+.img_1-3{
+    background-image:url('../images/netflix.png');
+    border-radius: 25px;
+    background-color: white;
+}
+
+.img_2-1{
+    background-image:url('../images/twitch.png');
+    border-radius: 25px;
+    background-color: white;
+}
+.img_2-2{
+    background-image:url('../images/vimeo.png');
+    border-radius: 25px;
+    background-color: white;
+}
+.img_2-3{
+    background-image:url('../images/123movies.png');
+    border-radius: 25px;
+    background-color: white;
+}
+
+/*.EVENTUEEL NOG 3*/
+/*.img_3-1{
+background-image:url('../images/yt.png');
+border-radius: 25px;
+background-color: white;
+}*/
+/*.img_3-2{
+background-image:url('../images/yt.png');
+ border-radius: 25px;
+ background-color: white;
+}*/
+/*.img_3-3{
+background-image:url('../images/yt.png');
+ border-radius: 25px;
+    background-color: white;
+}*/
+
+
+
+
+
+
+
+
+
